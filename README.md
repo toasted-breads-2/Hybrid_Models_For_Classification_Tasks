@@ -1,8 +1,9 @@
 # Introduction
-This repository contains the documentation of our work in the course project of BITS 464 Machine Learning. The course introduced us to several fundamental concepts of Machine Learning such as Regression, classification, Neural Networks, SVMs. As part of our final project, we made this repository.
+This repository contains the documentation of our work in the course project of BITS 464 Machine Learning. The course introduced us to several fundamental concepts of Machine Learning such as Regression, classification, Neural Networks, SVMs. As part of our final project, we made this repository. 
 
 Inspired by the paper "DNA Sequence Classification by Convolutional Neural Network" by Nguyen et al., we carried out our research.
-Here we attempt the implementation of the paper.
+Here we attempt the implementation of the paper. 
+***Please explore the Presentation attached in the repo that documents our entire progress***
 
 # Steps followed for implementation:
 
