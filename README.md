@@ -52,13 +52,13 @@ Models were evaluated using standard classification metrics:
 - ROC-AUC Curve
 
 ## Repository Structure
-HK4me1.txt: Contains the raw dataset used.
-dataset.txt: Is the cleaned dataset after preprocessing.
-OnehotEncoding_CNN.ipynb: Jupyter notebook for base model implementation.
-OnehotEncoding_CNN_hyperparam_optim.ipynb: Jupyter notebook for hyperparameter tuning of base model cnn.
-onehot_cnn+bilstm.ipynb: Jupyter notebook for hybrid model.
-word2vec_cnn+bilstm.ipynb: Jupyter notebook for Word2Vec embedding and hybrid model implementation.
-4mer_Word2Vec_CNN+LSTM.ipynb: Jupyter notebook for 4mer representation and hybrid model.
-README.md: Project overview and instructions.
-ML Project Report (1).pdf : Project report.
-ML Project Presentation.pdf: Presentation.
+- HK4me1.txt: Contains the raw dataset used.
+- dataset.txt: Is the cleaned dataset after preprocessing.
+- OnehotEncoding_CNN.ipynb: Jupyter notebook for base model implementation.
+- OnehotEncoding_CNN_hyperparam_optim.ipynb: Jupyter notebook for hyperparameter tuning of base model cnn.
+- onehot_cnn+bilstm.ipynb: Jupyter notebook for hybrid model.
+- word2vec_cnn+bilstm.ipynb: Jupyter notebook for Word2Vec embedding and hybrid model implementation.
+- 4mer_Word2Vec_CNN+LSTM.ipynb: Jupyter notebook for 4mer representation and hybrid model.
+- README.md: Project overview and instructions.
+- ML Project Report (1).pdf : Project report.
+- ML Project Presentation.pdf: Presentation.
