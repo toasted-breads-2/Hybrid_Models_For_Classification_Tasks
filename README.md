@@ -23,7 +23,7 @@ Due to the computational resources present, out of the 12 datasets mentioned in 
 - We replicated the model architecture present and chose the best hyperparameters.
 - The dataset used and the code for base model implementation can be found here.
 
-## Further changes made include
+## Novel Approach
 To think of a novel approach, we brainstromed and came up with the following:
 Broadly, the paper could be divided into three segments:
 - Sequence Representation
